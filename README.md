@@ -44,3 +44,4 @@ library(CausalImpact)
     [Stack Overflow](http://stackoverflow.com/questions/tagged/causalimpact)
 
 *   [Bug reports](https://github.com/google/CausalImpact/issues)
+OMG 
